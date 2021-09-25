@@ -1,0 +1,117 @@
+@media(max-width:1300px){
+    .mid-content {
+        max-width: 100%;
+        margin: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+    .logo img {
+        height: 49px;
+    }
+    .logo span {
+        font-size: 16px;
+      
+    }
+    .primary-menu ul li a {
+        
+        padding: 1px 4px;
+    }
+    .header-btn {
+     
+        padding: 6px 18px;
+        font-size: 11px;
+        margin-top: 18px;
+    }
+    .video-content-right h3 {
+        font-size: 31px;
+        margin-bottom: 7px;
+    }
+    .video-content-right p {
+        font-size: 15px;
+        line-height: 1.8em;
+    }
+    .section-title h1 {
+        font-size: 51px;
+        margin-bottom: 22px;
+    }
+    .service-box {
+        width: 48%;
+        margin-right: 9px;
+        box-sizing: border-box;
+    }
+    .section-title h2 {
+        font-size: 43px;
+    }
+    .section-title p {
+        font-size: 14px;  
+    }
+    .pricing-table-item {
+        width: 48%;
+        margin-right: 2%;
+        margin-bottom: 22px;
+    }
+    .p-heading h4 {
+        font-size: 22px;
+    }
+    .p-heading h1 {
+        margin: 22px 0;
+        font-size: 47px;
+    }
+    .p-heading h5 {
+      font-size: 19px;
+    }
+    .p-content ul li span {
+        font-size: 28px;
+    }
+    .p-content ul li {
+        font-size: 17px;
+    }
+    .default-btn {
+        padding: 15px 21px;
+        font-size: 18px;  
+    }
+    .team-section .section-title h2 {
+        font-size: 31px;
+    }
+    .team-members {
+        margin-top: 63px;
+    }
+    .member-bio h4 {
+        font-size: 14px;
+    }
+    .member-bio p {
+        font-size: 15px;
+    }
+    .section-title.newslatter-title h2 {
+        margin-top: 18px;
+        font-size: 40px;
+    }
+    .newslatter-from {
+        margin-top: 20px;
+    }
+    .default-input {
+        width: 270px;
+        padding: 18px 48px;
+        font-size: 18px;
+    }
+    .submit-btn {
+
+        font-size: 21px;
+        padding: 13px 68px;
+    }
+    .b-hading h2 {
+        font-size: 42px;
+    }
+    .bt-content p {
+        font-size: 16px;
+    }
+    .blog-post-content {
+        margin-left: 9px;
+    }
+    .i-item {
+        width: 47%;
+        margin-right: 2%;
+        margin-bottom: 42px;
+    }
+}
